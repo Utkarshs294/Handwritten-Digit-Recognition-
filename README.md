@@ -11,4 +11,5 @@ Insights:-
 
 - The results were impressive! The trained model achieved an accuracy of showcasing its ability to generalize and make accurate predictions on new, unseen handwritten digits.
 - This project not only enhanced my understanding of machine learning and computer vision but also highlighted the power of deep learning in solving real-world challenges.
+  
 Thank you Bharat Intern for providing such an amazing oppportunity to enhance my skills.
