@@ -2,7 +2,7 @@
 
 Objective:-
 
-Handwritten digit recognition system using MNIST which basically detects the scanned images.In this project i had focused on the scanned images of handwritten digit recognition by using MNIST.
+Handwritten digit recognition system using MNIST which basically detect the scanned images.In this project i had focused on the scanned images of handwritten digit recognition by using MNIST.
 
 Tools used:-
 - Jupyter Notebook
